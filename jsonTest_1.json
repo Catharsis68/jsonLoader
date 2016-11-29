@@ -1,0 +1,10 @@
+{
+	"OriginCityName": "Mannheim",
+    "DestinationCityName": "London",
+    "DestinationCountry":"England",
+    "DestinationStationLatitude": 52.089072,
+    "DestinationStationLongitude": 5.107225, 	
+    "ConnectionNumber": 5,
+    "Departure": "14:50",
+    "DepartureDate": "2016-11-29",
+}
